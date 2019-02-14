@@ -1,5 +1,5 @@
 # MNIST Fashion
-# Recognition using PyTorch, FeedForward
+## Recognition using PyTorch, FeedForward
 
 # Install
 1) Download repository
